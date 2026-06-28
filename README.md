@@ -7,3 +7,4 @@ My solutions for the [LLM Zoomcamp 2026](https://github.com/DataTalksClub/llm-zo
 | Module | Homework |
 |---|---|
 | 1 — Agentic RAG | [solution notebook](01-agentic-rag/homework.ipynb) · [README](01-agentic-rag/README.md) |
+| 2 — Vector Search | [solution notebook](02-vector-rag/homework.ipynb) |
